@@ -1,0 +1,67 @@
+# 59. VUCA again, a little Marx, the difference between software and hardware
+
+VUCA again, a little Marx, the difference between software and hardware
+
+[Silos, fatigue with the present, the edge of complexity, pyramids, value streams, release trains, Kaizen, Lean, just-in-time, Tesla, slicing in the automotive industry, the duality of waterfall and agility, old and new crafts, challenges for old and new industries, VUCA in software]
+
+"VUCA is the fog of modern times," Rosho says to me, "what do you think causes this general fogginess? It can't be Heisenberg and his uncertainty principle."
+"Fear," I say, "because the present is losing its contours. Even what is right in front of our eyes is becoming increasingly unclear."
+"The past was already complicated," says Rosho, "but the present seems super complicated. And with digitalization, hardly anyone can see through it anymore. Not even the specialists. They're sitting in their silos."
+"Maybe that's it," I say. "Everyone wants an iPhone, but the compression of content into such a small space overwhelms absolutely everyone."
+"Yes," says Rosho, "it makes people tired."
+"Tired from the presence of things that overwhelm them." 
+"Present fatigue," he says, "I like that term."
+"You once said that we live on the brink of rapidly increasing complexity..."
+"Hmm," says Rosho, looking right through me. "I see that as an opportunity."
+"The free jazz of current perceptual reality," I remark, carried away as a musician. "That's why the genre is dead, replaced by the cacophonous present. The chamber tones are lost in the noise. But sure, you have to take it in stride."
+Rosho laughs directly at me: "Your penchant for dystopian projections is unbroken. But I tell you, we're now using our navigation tools to find our way out of the fog, and it's going to be musical."
+My tendency? I see myself more as a notorious optimist.
+"Are you okay?" he asks me later, a fresh cup of coffee in his hand.
+"Sure," I say.
+He says, "I have a question for you. What do you think distinguishes old-school tinkerers from modern researchers and inventors?"
+Interesting. All I know is that for several years now, Nobel Prizes for scientific achievements have rarely been awarded to individuals, but almost without exception to research groups or even research consortia.
+"Definitely a trend," Rosho replies, "and it represents a general development. May I elaborate a little further?"
+He never ceases to surprise me with his exceptional courtesy. What a question!
+"As a former organ builder, I am a master craftsman. In an organ building workshop, no one would think of drawing up project plans and setting milestones. That happens automatically because the organ has to be finished at some point and because there is an inauguration and so on. Craftsmanship is always done in a waterfall, but it is completely agile because the craftsmen consult with each other regularly, constantly improve their working methods, and all of this happens in natural repetitions, or iterations, so to speak. And with this duality of waterfall and agility, there was no problem. Even complex projects such as the construction of the pyramids could be completed well in this way. It just took time. The pyramid builders probably only thought about a single milestone. The structure had to be completed during the lifetime of the builder, i.e., the pharaoh, because it was needed for his death. There were probably budget problems from time to time , but the stream of value worked just like the release train . At some point, the things were just there. Just like St. Peter's Basilica or Hagia Sophia."
+"But?" I ask.
+"No buts," he replies, "just a then. Because then came industrialization. It actually started in the 16th and 17th centuries, but the 19th century is generally considered the century of industrialization. What happened then?" He looks at me, his forehead wrinkled.
+"The chimneys started smoking," I say.
+"That too," he explains, "but first the minds. The core problem of industry, which at that time relied entirely on craftsmanship, was scaling the craft. I know this problem from my own experience. I started small as an organ builder and eventually had up to 18 employees. This turned the craft of organ building into a manufacturing business, and this transition is very difficult. It's important to note that in craftsmanship, the tools belong to the craftsmen. So the locksmith or carpenter owns his tools. In a manufactory, and even more so in a factory, expensive tools are needed. The manufacturer buys these machines, which is why they belong to him. This results in a disconnect between the tools and the people."
+"Now we're talking about Karl Marx and capital," I say.
+"And then the division of labor became necessary. That's the next disconnect, and it affects participation. In the respective craft, everyone does everything in principle. There are specialists, the masters, but masters, journeymen, and apprentices basically do all the work, just at different levels of quality. That changes in the factory. Only specialists are in demand there. Take the automotive industry, for example. The greater the number of units produced, the more specialists are needed for specific tasks. Work on the assembly line is under great pressure. Several thousand people manufacture a car. That is the breakdown of participation. My grandfather, for example, was one of the few people who still built cars on their own in the 1920s, partly with the help of my father. There was no breakdown for them. Accordingly, they also had a different relationship to the work they did than someone in a factory." He looks inquiringly into my face. "Does that make sense to you?"
+"Yes, I'm a craftsman myself," I reply. "A wordsmith, in fact. It's all logical and understandable so far."
+"Then the software industry took off. It only started around 50 years ago, so it's actually completely new. Before that, software only existed in rudimentary form. In the software industry, they initially tried to work the way they used to."
+"So, manually," I say.
+"Right. There were only a few developers who could do that at all. Then the software packages got bigger and bigger with more and more interdependencies, and that led to the need for scaling. And scaling has only been happening for a few decades now."
+I had also done some programming in previous years, but only at a basic level. However, this had given me a (very valuable!) insight into higher-level software architecture with its many dependencies.
+"We are practically in the software industry where the mechanical industry was, I would say, at the beginning of the 20th century. So we have a time gap of about 100 years between the hardware and software industries. That's the rough context."
+"Exciting," I say.
+"Production in the hardware industry has leveled off. The Japanese introduced Kaizen and Lean. Now the world knows how to organize just-in-time on complex production lines and has thus got mass production under control."
+"And the software industry," I say, "is facing major problems..."
+"...because the operating system you need to build hardware is not suitable for developing complex software. Sure, you can still cobble together a website or small applications like a craftsman, but not the software for a car."
+"Why?" I ask, deliberately naively.
+"A car needs huge software if it's going to be able to do what a Tesla can do. In a Tesla, the hardware only plays a secondary role. The software is primary."
+"And what does that mean?"
+"In hardware, you come up with a concept, develop a pilot, and then finally go into series production. A lot of brainpower is needed for the concept and development of the pilot. But with series production, everything runs almost automatically. Of course, there are always improvements to be made, which requires brainpower, but once the wheel has been invented, it rolls, as we know."
+"Doesn't that also apply to the software industry?"
+"No, software is a purely intellectual achievement, not a mechanical one. When you build a car or any kind of machine, a refrigerator or something like that, you only need your brain in the design phase. With software, you always need it. You need it in the design phase, you need it during production, you need it during testing, you need it during operation, you need it for new versions. Continuous brainpower is required – that's a huge difference from hardware."
+I remember my attempts to get a small platform developed in cooperation up and running and the joint efforts in testing the code and functions for operation.
+"And that's not all," explains Rosho. "There's another significant difference between hardware and software." He looks me over, probably to gauge whether my attention span is already exhausted. "All good?"
+When I nod, he continues: "Hardware can be broken down into individual components. Each individual component can be developed and produced independently. This slicing of components also makes large projects such as the development of a new car, say with a conventional drive, i.e., a combustion engine, and software burned into hardware, manageable. The engine has to meet certain key specifications, such as dimensions and weight. The same applies to the crankshaft, wheel suspension, etc. However, the engine, crankshaft, wheel suspension, chassis, electrical system, and other components can be developed and supplied by different manufacturers. This is why assembly lines and just-in-time production have become so prevalent."
+"Okay," I say.
+"Now let's look at the software industry: Software is purely intellectual work, not mechanical. And this intellectual work is also required on an ongoing basis. It is indispensable in the design phase, as well as in manufacturing, testing, and operation. And for new versions and updates, of course. Existing code can be used in part, but this requires such complex adaptations to current requirements that slicing, as is possible with mechanically based services, is not possible. The software for a platform, for example, is a highly complex architecture that is often interdependent and can therefore only be developed in constant interdependence and with continuous exchange. The result: uninterrupted intellectual performance is required, in fact, high performance. This fundamental requirement of constant high performance is new – and represents a huge qualitative difference compared to the production of hardware."
+"Can you explain that with an example, please?" I ask.
+"Taxiter, you're already familiar with your example. A platform, not huge, but big enough. You need more than a hundred people for it, and all these people have to be networked with each other so that it becomes a joint development that also works . This need for networking is new. That's the real revolution, the need to network brains. You could also call it an intelligent swarm."
+"Quite a few companies have major problems with this networked and well-functioning interaction," I say. "German car manufacturers too, apparently, I just read."
+"In the old industries, software is still predominantly produced with toxic masculine silo thinking. I would be surprised if that didn't go wrong. Without functioning networking, my prediction is that the thing will end up in the ditch. Elon Musk comes from the software industry, he knows how it works and is showing with Tesla that it can be done. Neural networking that works is what is needed for such giant projects. The Scaled Agile Framework, as well as our extension with Augmented Leadership, provide the methods for scaled networking."
+"You say that with such certainty, as if it were absolutely certain. Where does that certainty come from?"
+"Around 70% of all software projects go wrong. Why? Because the budget is exceeded, because the time is exceeded, because the scope is not adhered to, or because the quality is insufficient. Often all four at once. Time, scope, money, quality. Why is that?" He looks at me expectantly.
+"You're asking me?"
+"I think you should know the answer by now."
+"I think it's because milestones and the purely intellectual work of software development don't go well together."
+"Exactly, and because the methods used to measure the state of networking and progress are usually inadequate or simply wrong. Because if they did go together, we would know. Then it would work. Then we wouldn't be sitting here talking about it. Then it would be a sure-fire success."
+"Instead, we have VUCA in software too."
+"Now you've got it!" He laughs at me again. "If you build software according to the waterfall principle, it's probably already obsolete by the time it's released, meaning it has no market value, assuming it works at all. The solution is a constant value stream, organized in a release train, which the teams work towards. The scope is constantly adjusted according to customer requirements, thus remaining variable and ensuring that it is up to date when completed. That's the only way it works."
+
+Learned in Chapter 59:
+Probably the most important achievement of the 19th century was the scaling of craftsmanship. A cardinal challenge of the 21st century is the scaling of software development and the scaling of interfaces between mechanical and digital manufacturing. SAFe and Augmented Leadership provide the methods for this.

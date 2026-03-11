@@ -1,0 +1,28 @@
+# 46. Competence circles at Taxiter
+
+Competence circles at Taxiter
+
+[Backend, frontend, a shop, CRM, UX, and a competence circle in which Matty is not involved]
+
+Dear reader, this book is aimed at a broad audience. No prior knowledge of software development is required to understand the content. Nevertheless, further terms from this field (with the corresponding explanations) will appear in the following chapters. This is logical, as Taxiter is a company whose business model is based entirely on software. Although Rosho.World can be consulted as an augmented leadership partner by companies, governments, and NGOs, and can be used effectively in all economic areas with the Augmented Leadership Framework and the planned InterTaG platform, almost all of the methodological suggestions come from experience with software development. It can be assumed that they will also grow from this area into other socio-cultural, economic, and political spheres.
+Why? Because, as has been noted several times, even a school that is organized and managed according to Rosho.World and the Augmented Leadership Framework (or a comparable methodology) simply functions much better than one managed according to the old, centralized top-down principle. This also applies to kindergartens, bakeries, fashion houses, nurseries, car manufacturers, aircraft manufacturers, steel producers, and hospitals—to present a seemingly random list.
+However, the example chosen was that of a software company that offers online tax returns – modeled on companies for which we have actually worked in this sense. This is as plausible as it is manageable – after all, some of the essential tools of the Rosho.World methodology have already been explained using the example of the Buchbinder family.
+
+Discussions with Taxiter management and employees (based on the nemawashi principle) reveal that there are twelve different areas of expertise within the platform. These include the database, the shop with its various payment systems, customer relationship management (CRM) tools, and others. Of course, the database has to work, otherwise you don't know who you've already sold something to and who has paid when. The shop is important so that something can be sold at all and different payment options are available. CRM is important for maintaining customer relationships. Essentially, this ensures that they remain loyal to the company and do not switch to the competition. This can easily happen if, for example, a function is disrupted or fails completely. Maintaining customer relationships through the appropriate communication channels is all the more important for a company that sells services on a platform and therefore has no direct personal contact with its customers. CRM must also function smoothly and without failures at Taxiter.
+I've been sitting in Jean's office with Anna for just under an hour. Because the sun is shining directly in, the red circle in Joan Miro's painting is glowing. Anna and Jean keep trying to suppress a grin as we talk about CRM.
+I don't let this bother me and inquire about overlaps between the different areas of expertise within the Taxiter platform. Some areas of expertise are clearly delineated, others are not. Architects in one system are unlikely to be familiar with another system, or only to a very limited extent. Similarly, developers are specialists and masters of their own system, but less knowledgeable about others. , a distinction is made here between front-end developers (those who program the user interface, i.e., what you see when you visit taxiter.com on the Internet) and back-end developers (who code what has to run behind the scenes, i.e., in the software substructure, so that the superstructure, namely the front end, is usable at all). So-called UX (user experience) designers, on the other hand, whose job is to design the front end according to customer needs, can be deployed wherever design is important. This also applies to a somewhat lesser extent to testers, i.e., those who ensure that a newly programmed feature runs quickly and reliably (don't worry, we won't get bogged down in technical jargon here!). 
+Jean: Only Matty knows everything.
+Anna: But he's not involved in one area of expertise.
+Jean with a boyish, mischievous grin: CRM.
+Then that's settled, I say and have to laugh.
+
+The Customer Relationship Management (CRM) competence circle consists of five backend and three frontend developers, two testers, a UX designer, and a solution architect. Bea, the architect, originally worked as a backend programmer, but trained herself in frontend development on the side, so that she was eventually employed as a full stack developer. She was then hired as an architect for CRM solutions. Bea is popular because she is a good listener.
+"I've been waiting for this moment," she says when I tell her about the management's wishes and the possibility of a change process starting in the CRM team. 
+Bea: I never understood why we didn't do this from the outset.
+She suggests calling the team together for a conference so that I can present the project.
+I make it clear that I want to provide a draft for discussion, i.e., a decision-making aid, but not a predetermined decision, as that would run counter to all Rosho.World principles.
+Bea nods happily and suggests a date.
+
+Learned in Chapter 46:
+First: Augmented Leadership, the framework of the same name, and the InterTaG platform can be usefully applied and utilized in projects and organizations of any size.
+Second: If a digital transformation does not seem feasible across the entire company, the change should be started in one sub-area.

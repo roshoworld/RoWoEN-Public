@@ -1,0 +1,37 @@
+# 15. Overture, Part Two
+
+Overture, Part Two
+
+[Hippie and organ builder with his own production, living in the south of France, a goat-herding apprentice]
+
+He calmly acknowledges my astonishment and says, "When I was eight, I was allowed to teach my mother's friends how to drive on our farm. If I had told anyone at school, they would have thought I was crazy."
+I must admit that I, too, am overwhelmed by the description of his precocious undertakings. A touch of envy? Perhaps. In any case, I say, "Back to the gas station. There, 15-year-old Robert is tinkering away and is discovered by his father."
+"There was no thunder and lightning. It was agreed that I would start an apprenticeship. At first, I wanted to be a shepherd. Alone outside with the animals and my own thoughts, I liked the idea. However, at that time, shepherds were being overrun by dropouts with doctorates. So there was nothing to be done in the fields. I then came across the entry 'organ builder' in the phone book."
+"Your first choice has very little to do with your second choice, doesn't it?"
+He smiles. "That's right. I would have liked to train as a car mechanic in a racing team, but getting into that was impossible at the time. Aircraft construction would also have appealed to me. But there was no such thing as Airbus back then. Large aircraft weren't being built in Europe at the time. I also toyed with the idea of becoming a pilot. But that's like driving a bus, only in the sky, so it quickly gets boring."
+He pauses. Checks to see if I'm still listening. "I considered many options at the time. The only thing that was absolutely out of the question was joining the army. I had long hair, wore colorful clothes, and was, of course, a staunch pacifist. I was interested in music. I only realized that organ building was a profession when I saw the word in the phone book. An organ is a highly complex instrument. It requires a great deal of technology to make it work and sound good. That appealed to me."
+"So you looked for a master craftsman," I say.
+"There were about two dozen organ builders in my area, Bavaria and Württemberg. I went to see them one after the other and looked at their workshops. After visiting the first one, I knew that was it. Unfortunately, I was rejected. Then by all the others too. So I went back to the first one and said I would work for free. They took me on. I was then allowed to sweep the floor and fetch snacks for weeks. And finally, one day, the master invited me to the tavern, pressed a piece of paper into my hand and said, this is your contract, now you are an apprentice. We then drove around and repaired organs, for example the one in the monastery church in Ottobeuren."
+I know Ottobeuren from several stays at the monastery, where I admired the Romanesque chapel in the left wing and listened to Father Kantor (unfortunately, I have forgotten his real name) playing the organ. Bach made the baroque cathedral shine for me, sometimes with a metallic whisper, then with a wooden roar, before cascading down on me in a shower of vibrant harmony. Sound moves me, I can safely say that here, and the organ in Ottobeuren has always captivated me.
+"I know Ottobeuren and the organ," I say admiringly.
+"Beautiful," he replies.
+There are silent superlatives that announce themselves almost inaudibly, only to transform into a brilliant fortissimo with a steady crescendo, now unmistakable, a powerful orchestral experience, performed in symphonic harmony. And there are biographies that do not begin with a public fanfare, but rather swell over years and decades, almost secretly and under the radar of a publicly perceptible exceptional phenomenon, only to emerge over time, matured and ripe for the moment. It is all the more impressive when such a life journey becomes visible.
+After a short break, we reappear in front of the screen at the same time. Rosho, as can be seen from his relaxed expression, is also happy about the conversation.
+In 1977, he passed his journeyman's examination with top marks, packed his organ builder's toolbox into a truck converted into a camper van, and set off for France.
+"Why France?" I ask.
+"Because secularization also took place there. That's why churches in France are so impoverished that they couldn't constantly repair their organs. A blessing, because it meant that the instruments were preserved historically. Unlike in Germany, where the state collects money for the churches. Here, the organs were constantly being tampered with, plastic was installed for questionable restorations, and wonderful instruments were destroyed. It was different in France. There, the organs stood untouched for practically a century. I had heard about this and, as a young and ambitious organ builder, I naturally wanted to go there."
+"And where did you end up?"
+"After zigzagging thousands of kilometers through France, stopping in every little town, rummaging through the local phone book and searching for an organ builder who could hire me, I finally ended up in Carpentras, a small town in Provence, about thirty kilometers northeast of Avignon. There was a great organ builder there. He already had an employee from Passau and finally hired me because I was familiar with organ voicing. I had learned how to bring sound into the organ in Munich. Ironically, that was something the master in Carpentras couldn't do. But he was very musical. I was able to show him how to get the tone and timbre he heard into the pipe. My teacher in Munich had mastered the technique, but soon left it to me to apply because he wasn't musical enough for it."
+"So this knowledge was absorbed in Carpentras," I surmise.
+"After I left, the French master became a famous organ restorer."
+"But you left anyway?"
+"I then started my own company, initially as a small organ workshop in a hut in the forest near Avignon. I specialized in so-called portatives, which are needed for early music, and barrel organs, i.e., portable instruments, and was quickly so successful that I was able to expand the business to ten employees. We sold organs all over the world. It was a great time."
+"But it ended ...?" 
+"I achieved everything I wanted to in organ building. My barrel organs, for example, were operated using organ books. These were punch card tapes on which you could punch in complicated music and then read it into the organ and play it. In the 1990s, I was considered a specialist in this field. I usually received the sheet music by fax in the morning. The main work consisted of transferring it to a computer program to control a device that I had designed myself. It then punched the notes as hole codes into an organ book. That's how I got into IT. The organ books I produced were also used in live concerts. By Jean-Michel Jarre, for example, who incorporated them into his shows."
+"Can you feel that?" I ask.
+"What do you mean?" he asks back.
+"This thing here," I say, "it's going to be big."
+"Great," he says with a smile and ends the video conference.
+
+Learned in Chapter 15:
+That organ building is a profession that requires good ears, that you can power a cassette recorder with a bicycle dynamo and listen to Johann Sebastian Bach. That Silbermann organs are the best in the world and that organ books and punched hole codes are precursors to digitization.

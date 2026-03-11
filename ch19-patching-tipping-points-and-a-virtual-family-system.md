@@ -1,0 +1,16 @@
+# 19. Patching, tipping points, and a virtual family system
+
+Patching, tipping points, and a virtual family system
+
+[Patchwork software, tipping points, Genezareth, methodical order, and the scope of the family]
+
+"Everything okay with you?" Rosho asks me when I show up at the office the next morning looking tired.
+Last night, I spent a long time pondering terms whose meaning I knew superficially but had not yet understood in depth. Most of the terms in question come from lean management, so-called "lean production," and IT. "Patching," for example, refers to minor bug fixes in software. Figuratively speaking, a patch is a mend, on a pair of pants, for example. The problem with this is that at some point, you can no longer see the original pants for all the patches. This brings us closer to a so-called tipping point – the moment when a system collapses and is no longer functional. To stick with the pants analogy: if they eventually consist only of patches and seams, they will tear at the slightest movement. I know this from my teenage years. My mother had to sew colorful patches onto my jeans – until they were patched to death and fell apart on their own. This is a problem that is also familiar from software patching. With so many bug fixes, software becomes increasingly complex – and eventually overly complex. And with the next repair attempt, the tipping point is suddenly reached. The software can no longer be patched and suddenly isn't even executable anymore. There are tipping points at the corporate level. The result can be bankruptcy. The TP of a marriage usually ends in divorce. The individual TP can be a breakdown after a series of misfortunes. The TP of the world is climate change with its consequences – unless it is preceded by a capitalist economic TP.
+"Now we're talking about entropy again and the attempt to counter growing chaos with methodical order," comments Rosho.
+"How does methodical order according to Rosho.World work in a family system?" I ask, in order to readjust our scope as agreed.
+"Would you like to learn about this using my family as an example?" Rosho asks in return.
+"No, no," I decline. "As interesting as your report on the Nanni Retro was to me, that would be too private. Let's start with an imaginary family. How would you like that?"
+"Great idea," my counterpart confirms and then tells me: "A fishing village was recently discovered on Lake Genezareth. It is said to be almost 20,000 years old, making it the oldest settlement in the world discovered to date. Families probably already lived there. So the family as a social entity has been around for at least 20,000 years. There are often problems within families, and not just since yesterday. Everyone understands that. We should do it that way. Would you like to work that out?"
+
+Learned in Chapter 19:
+The world is full of tipping points (TPs). A TP marks the moment when a system is no longer functional. Partnerships, families, small and large businesses, and systems in general, such as the power grid of one or more countries, can reach a TP. The result is breakdown, collapse, or blackout, and is often irreversible.
