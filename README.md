@@ -1,7 +1,8 @@
 # Rosho.World — The Method Is the Solution
 
 _Originally written by Otmar Jenner with Yuko Osao, translated and published by Yuko Osao - Rosho.World OÜ_\
-_Licensed under_ Creative Commons Attribution 4.0 (CC BY 4.0)
+_Licensed under_ Creative Commons Attribution 4.0 (CC BY 4.0)\
+Original German version
 
 ***
 
@@ -57,7 +58,7 @@ Read also Rosho's book "[Augmented Governance](https://augmented-governance.com/
 * **GitHub** — the source of truth
 * **LinkedIn, Medium, Substack** — selected chapters and essays
 
-Every chapter includes the option to continue the conversation with the Rosho Alter — an AI representation of Robert Rosho Hopp, trained on the ideas in both books. Challenge the arguments, ask for clarification, or explore what comes next.
+Every chapter will include the option to continue the conversation with Otmar's and Rosho's Alters — an AI representation of Robert Rosho Hopp, trained on the ideas in both books. Challenge the arguments, ask for clarification, or explore what comes next.
 
 ***
 
