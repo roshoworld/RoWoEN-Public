@@ -2,7 +2,7 @@
 
 _Originally written by Otmar Jenner with Yuko Osao, translated and published by Yuko Osao - Rosho.World OÜ_\
 _Licensed under_ Creative Commons Attribution 4.0 (CC BY 4.0)\
-Original German version
+[Original German version](https://rosho.gitbook.io/rosho.world-die-methode-ist-die-losung/)
 
 ***
 
